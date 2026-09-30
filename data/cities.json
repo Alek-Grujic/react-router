@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,56 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "cityName": "Innsbruck",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2026-09-29T13:33:21.510Z",
+      "notes": "",
+      "position": {
+        "lat": "47.26472780195101",
+        "lng": "11.385698318481447"
+      },
+      "id": "CuG685predY"
+    },
+    {
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2026-09-29T13:37:38.481Z",
+      "notes": "",
+      "position": {
+        "lat": "52.247982985281865",
+        "lng": "21.005859375000004"
+      },
+      "id": "ZhsOdwaYcvI"
+    },
+    {
+      "cityName": "Fuentiduena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-09-29T13:41:57.059Z",
+      "notes": "",
+      "position": {
+        "lat": "41.44272637767212",
+        "lng": "-3.9880371093750004"
+      },
+      "id": "NU5ToP19NsU"
+    },
+    {
+      "cityName": "Ad Dawadimi",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2026-09-29T13:45:37.113Z",
+      "notes": "fdfdfd",
+      "position": {
+        "lat": "25.16517336866393",
+        "lng": "44.29687500000001"
+      },
+      "id": "c5aNHEnT47M"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
