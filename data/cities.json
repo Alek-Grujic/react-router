@@ -25,18 +25,6 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🍺",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "cityName": "Innsbruck",
       "country": "Austria",
       "emoji": "🇦🇹",
@@ -47,42 +35,6 @@
         "lng": "11.385698318481447"
       },
       "id": "CuG685predY"
-    },
-    {
-      "cityName": "Warsaw",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2026-09-29T13:37:38.481Z",
-      "notes": "",
-      "position": {
-        "lat": "52.247982985281865",
-        "lng": "21.005859375000004"
-      },
-      "id": "ZhsOdwaYcvI"
-    },
-    {
-      "cityName": "Fuentiduena",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-09-29T13:41:57.059Z",
-      "notes": "",
-      "position": {
-        "lat": "41.44272637767212",
-        "lng": "-3.9880371093750004"
-      },
-      "id": "NU5ToP19NsU"
-    },
-    {
-      "cityName": "Ad Dawadimi",
-      "country": "Saudi Arabia",
-      "emoji": "🇸🇦",
-      "date": "2026-09-29T13:45:37.113Z",
-      "notes": "fdfdfd",
-      "position": {
-        "lat": "25.16517336866393",
-        "lng": "44.29687500000001"
-      },
-      "id": "c5aNHEnT47M"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
