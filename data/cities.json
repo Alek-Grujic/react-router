@@ -23,18 +23,6 @@
         "lng": -3.7133789062500004
       },
       "id": "17806751"
-    },
-    {
-      "cityName": "Innsbruck",
-      "country": "Austria",
-      "emoji": "🇦🇹",
-      "date": "2026-09-29T13:33:21.510Z",
-      "notes": "",
-      "position": {
-        "lat": "47.26472780195101",
-        "lng": "11.385698318481447"
-      },
-      "id": "CuG685predY"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
